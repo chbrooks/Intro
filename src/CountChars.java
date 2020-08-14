@@ -19,6 +19,7 @@ public class CountChars {
     public static int nVowels(String instring) {
        int total = 0;
        return total;
+       /* here's a comment */
     }
 
     /** hasPunc: takes as input a string and returns true if the string contains punctuation.
